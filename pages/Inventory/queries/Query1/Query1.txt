@@ -1,0 +1,1 @@
+SELECT * FROM {Table1.data} WHERE expiryMonth BETWEEN SYMMETRIC {{moment(DatePicker2.selectedDate )}} AND {{moment(DatePicker1.selectedDate)}} ORDER BY id;

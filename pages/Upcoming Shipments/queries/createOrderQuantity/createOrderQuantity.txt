@@ -1,0 +1,9 @@
+{{
+	{
+		"orderId": this.params.orderId,
+		"orderDate": this.params.orderDate,
+		"expectedArrivalDate": this.params.expectedArrivalDate,
+		"orderQuantity": this.params.orderQuantity,
+		"orderConfirmation": this.params.orderConfirmation
+	}
+}}

@@ -1,0 +1,11 @@
+{{
+	{
+		"shipmentId": this.params.shipmentId,
+		"shipmentMonth": this.params.shipmentMonth,
+		"shipmentDay": this.params.shipmentDay,
+		"shipmentYear": this.params.shipmentYear,
+		"shipmentSize": this.params.shipmentSize,
+		"newLotNumber": this.params.newLotNumber,
+		"newItemId": this.params.newItemId
+	}
+}}
